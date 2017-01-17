@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 Notsofruity is an US based software outsourcing company that offers high quality and cost effective software development service to its clients. We strive for on time delivery of the projects and adhere to stringent quality standards.
 
 We offer flexible and cutting edge solutions that help our clients to operate more efficiently and gain an edge over their competitors. We offer high quality offshore software engineering and programming talent that can be leveraged to gain competitive advantage. We believe in delivering smart business solutions through smart usage of technology and continuously focus on quality of deliverables to our clients.
