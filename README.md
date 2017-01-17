@@ -5,16 +5,13 @@ Notsofruity is an US based software outsourcing company that offers high quality
 We offer flexible and cutting edge solutions that help our clients to operate more efficiently and gain an edge over their competitors. We offer high quality offshore software engineering and programming talent that can be leveraged to gain competitive advantage. We believe in delivering smart business solutions through smart usage of technology and continuously focus on quality of deliverables to our clients.
 
 Our wide range of services include:
-1. Software Developement
-2. Software Testing
-3. Configuration Review
-4. Graphic and Logo design
-5. Managed Deployment
-6. Cloud Solutions
+- Software Developement
+- Software Testing
+- Configuration Review
+- Graphic and Logo design
+- Managed Deployment
+- Cloud Solutions
 
-We strive to upgrade our domain expertise to help us provide not only IT services but valuable business services to our clients. Our primary goal is to help the client to focus on his business and leave the onus upon us to deliver what they need to run their business and make it more competitive through technology.
-
-To ensure that our customers get exactly what they need, we offer a variety of solutions that can be customized, combined, or deployed right out of the box and integrated with existing Enterprise applications.
 
 ### Why Choose Us?
 
