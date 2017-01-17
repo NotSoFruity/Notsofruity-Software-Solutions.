@@ -1,37 +1,35 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/NotSoFruity/Notsofruity-Software-Solutions./edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Notsofruity is an US based software outsourcing company that offers high quality and cost effective software development service to its clients. We strive for on time delivery of the projects and adhere to stringent quality standards.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We offer flexible and cutting edge solutions that help our clients to operate more efficiently and gain an edge over their competitors. We offer high quality offshore software engineering and programming talent that can be leveraged to gain competitive advantage. We believe in delivering smart business solutions through smart usage of technology and continuously focus on quality of deliverables to our clients.
 
-### Markdown
+Our wide range of services include:
+1. Software Developement
+2. Software Testing
+3. Configuration Review
+4. Graphic and Logo design
+5. Managed Deployment
+6. Cloud Solutions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We strive to upgrade our domain expertise to help us provide not only IT services but valuable business services to our clients. Our primary goal is to help the client to focus on his business and leave the onus upon us to deliver what they need to run their business and make it more competitive through technology.
 
-```markdown
-Syntax highlighted code block
+To ensure that our customers get exactly what they need, we offer a variety of solutions that can be customized, combined, or deployed right out of the box and integrated with existing Enterprise applications.
 
-# Header 1
-## Header 2
-### Header 3
+### Why Choose Us?
 
-- Bulleted
-- List
+- Vast experience in providing customized solutions to our clients to meet their web based needs.
+- Expertise in all areas of web site design and development and other web site based solutions.
+- Our team of dedicated web designers, developers, devops and professionals strive for excellence in the services offered.
+- We value Creativity and Innovation while offering web site design and development services to our clients.
+- We offer extremely competitive rates. We can cater to small, medium and large corporations.
+- We have a large global clientele in excess of 900 satisfied customers.
+- We have diversified domain expertize including real estate, automobiles, tourism, Distribution, CRM, Various B2B Platform Solutions and so on.
+- We Provide end to end business solutions to our clients with development of web forms for reporting systems
+- We strive meeting the deadlines of the client as we are aware that on or before time delivery of project is very crucial to the success of our clients.
+- A significant part of our work history has involved acting in the capacity of on-site expert and lead developers specializing in finding solutions for our clients
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NotSoFruity/Notsofruity-Software-Solutions./settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Got a query? Contact our sales manager at [robertbirdy@notsofruity.com](mailto:robertbirdy@notsofruity.com) or call us at +13829984998298292 and we’ll help you sort it out.
