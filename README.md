@@ -1,4 +1,6 @@
+---
 title: 'Notsofruity Software Solutions'
+---
 
 Notsofruity is an US based software outsourcing company that offers high quality and cost effective software development service to its clients. We strive for on time delivery of the projects and adhere to stringent quality standards.
 
