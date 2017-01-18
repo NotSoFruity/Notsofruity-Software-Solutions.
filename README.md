@@ -25,6 +25,11 @@ Our wide range of services include:
 - A significant part of our work history has involved acting in the capacity of on-site expert and lead developers specializing in finding solutions for our clients
 
 
+### Sample work
+
+We are in process of opensourcing some of our sample work. You can [view the sample work here](https://github.com/NotSoFruity)
+
+
 ### Support or Contact
 
 Got a query? Contact our sales manager at [robertbirdy@notsofruity.com](mailto:robertbirdy@notsofruity.com) or call us at +13829984998298292 and we’ll help you sort it out.
